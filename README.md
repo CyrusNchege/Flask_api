@@ -47,7 +47,7 @@ The API endpoint accepts GET requests with two query parameters:
 ### Example
 
 ```
-http://localhost:5000/api?slack_name=Cyrus-nchege&track=baDevops
+http://localhost:5000/api?slack_name=Cyrus-Nchege&track=baDevops
 
 ```
 ### Response
