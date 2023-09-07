@@ -42,6 +42,7 @@ python3 app.py
 The API endpoint accepts GET requests with two query parameters:
 
 **slack_name:** Your Slack name.(e.g., "Cyrus-Nchege")
+
 **track:** The track you are interested in (e.g., "Devops").
 
 ### Example
